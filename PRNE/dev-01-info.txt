@@ -1,5 +1,0 @@
-JBPH-U01-AS-01
-10.10.99.110
-iosxe
-cisco
-cisco
