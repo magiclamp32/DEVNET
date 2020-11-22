@@ -1,0 +1,4 @@
+py -3 -m venv DEVNET
+.\DEVNET\Scripts\activate
+# source DEVNET/Scripts/activate
+deactivate
